@@ -4,21 +4,13 @@
 
 ### Predict Employee Income Using Random Forest, Feature Engineering & Hyperparameter Optimization
 
-```
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Application-FF4B4B?style=for-the-badge&logo=streamlit)
-
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
 ![Random
-Forest](https://img.shields.io/badge/Random%20Forest-Classification-success?style=for-the-badge)
-
-```
+Forest](https://img.shields.io/badge/Random%20Forest-Classifier-success?style=for-the-badge)
 **Building Practical Machine Learning Solutions for Real-World Business
 Problems**
 
