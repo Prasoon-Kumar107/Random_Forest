@@ -1,6 +1,5 @@
 # 🚀 Machine Learning Classification Portfolio
 
-::: {align="center"}
 # 🧠 End-to-End Machine Learning Classification Projects
 
 ### Building Production-Ready Machine Learning Systems for Real-World Business Problems
@@ -16,7 +15,7 @@ workflows, business-focused solutions, and deployable AI applications.**
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit)
-:::
+
 
 ------------------------------------------------------------------------
 
