@@ -4,7 +4,6 @@
 
 ### Predict Employee Income Using Random Forest, Feature Engineering & Hyperparameter Optimization
 
-```{=html}
 ```
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 
@@ -19,7 +18,6 @@
 ![Random
 Forest](https://img.shields.io/badge/Random%20Forest-Classification-success?style=for-the-badge)
 
-```{=html}
 ```
 **Building Practical Machine Learning Solutions for Real-World Business
 Problems**
