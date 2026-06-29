@@ -11,6 +11,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
 ![Random
 Forest](https://img.shields.io/badge/Random%20Forest-Classifier-success?style=for-the-badge)
+
 **Building Practical Machine Learning Solutions for Real-World Business
 Problems**
 
