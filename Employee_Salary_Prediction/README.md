@@ -1,12 +1,10 @@
 # 💼 Employee Salary Prediction System
 
-::: {align="center"}
 # 🚀 End-to-End Machine Learning Classification Project
 
 ### Predict Employee Income Using Random Forest, Feature Engineering & Hyperparameter Optimization
 
 ```{=html}
-<p>
 ```
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 
@@ -22,13 +20,11 @@
 Forest](https://img.shields.io/badge/Random%20Forest-Classification-success?style=for-the-badge)
 
 ```{=html}
-</p>
 ```
 **Building Practical Machine Learning Solutions for Real-World Business
 Problems**
 
 ⭐ If you found this project interesting, consider giving it a star!
-:::
 
 ------------------------------------------------------------------------
 
