@@ -1,6 +1,5 @@
 # 💳 Credit Card Fraud Detection System
 
-::: {align="center"}
 # 🚀 End-to-End Machine Learning System for Financial Fraud Detection
 
 ### Detect Fraudulent Credit Card Transactions using **Python • Scikit-Learn • Random Forest**
@@ -15,7 +14,6 @@ Risk Analytics**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
 ![Random
 Forest](https://img.shields.io/badge/Random%20Forest-Classifier-success?style=for-the-badge)
-:::
 
 ------------------------------------------------------------------------
 
@@ -45,19 +43,6 @@ interpretation, and model serialization.
 -   ✅ Feature Importance Analysis
 -   ✅ Model Evaluation using multiple metrics
 -   ✅ Production-ready model serialization with Pickle
-
-------------------------------------------------------------------------
-
-# 📸 Project Preview
-
-> Replace these placeholders with screenshots after uploading them to
-> GitHub.
-
--   🖼️ Home / Notebook Overview
--   📊 Class Distribution Plot
--   🔥 Correlation Heatmap
--   📈 Feature Importance Plot
--   🎯 Confusion Matrix
 
 ------------------------------------------------------------------------
 
